@@ -16,6 +16,7 @@ namespace ConsoleApp1
             Console.WriteLine("Earth is mine");
             Console.WriteLine("World on github");
             Console.WriteLine("LALALALALALALALALALALALAL hahahahahahah");
+            Console.WriteLine("Core Trust is f");
         }
     }
 }
